@@ -10,7 +10,7 @@ You can put some more text here.  Maybe you need an image?
 
 # Section 3
 These pages are created in markdown, which can be edited on your computer or directly within your GitHub repo using the browser.
-You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-syntax).
+You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-syntax), or use a WYSIWYG editor like [this one](https://markdown-editor.github.io/).
 
 ---
 
@@ -24,6 +24,8 @@ _italics text_
 * Lists
    * Lists
 * Lists
+
+
 1. Lists
 2. Lists
 3. Lists
