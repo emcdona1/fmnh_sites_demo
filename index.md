@@ -18,13 +18,12 @@ You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-s
 
 **bold text**
 
-_italics text_
-
 * Lists
 * Lists
    * Lists
 * Lists
 
+_italics text_
 
 1. Lists
 2. Lists
